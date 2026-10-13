@@ -1,0 +1,13 @@
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
+DOMAIN-SUFFIX,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,a.intercom.io
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,clau.de
+IP-CIDR,160.79.104.0/21

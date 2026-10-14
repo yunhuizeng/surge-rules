@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,lenovo.com
+DOMAIN-SUFFIX,dynatrace-managed.com
+DOMAIN-SUFFIX,docdb.amazonaws.com
+DOMAIN-KEYWORD,lenovo
+DOMAIN-KEYWORD,quotation
+DOMAIN-KEYWORD,nitrogen
+DOMAIN-KEYWORD,cbso

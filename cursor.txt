@@ -1,0 +1,9 @@
+# Source: https://cursor.com/docs/enterprise/network-configuration
+# Cursor backend, auth, CDN, marketplace, Cloud Agents / VM
+
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursorvm.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN,anysphere-binaries.s3.us-east-1.amazonaws.com
